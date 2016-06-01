@@ -1,6 +1,6 @@
 [user]
-	name = Victor Arribas
-	email = v.arribas.urjc@gmail.com
+	name = Carlos Rodriguez Garcia
+        email = c.rodriguezgarci@gmail.com
 
 [alias]
 	root = rev-parse --show-toplevel
